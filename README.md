@@ -1,1 +1,1 @@
-# rgp-iterm2-theme
+# grp-iterm2-theme
